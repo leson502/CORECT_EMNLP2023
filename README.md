@@ -1,4 +1,5 @@
 # CORECT
+Paper: [Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction](https://aclanthology.org/2023.emnlp-main.937/)
 
 Abstract:
 
@@ -30,5 +31,21 @@ bash run_train.sh
 ```
 bash run_eval.sh
 ```
-## Acknowledgments
-The structure of code inspired by: [dialogue_gcn](https://github.com/mianzhang/dialogue_gcn)
+### Citation
+```
+@inproceedings{nguyen-etal-2023-conversation,
+    title = "Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction",
+    author = "Nguyen, Cam Van Thi  and
+      Mai, Tuan  and
+      The, Son  and
+      Kieu, Dang  and
+      Le, Duc-Trong",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    publisher = "Association for Computational Linguistics",
+    year = "2023",
+    url = "https://aclanthology.org/2023.emnlp-main.937",
+    doi = "10.18653/v1/2023.emnlp-main.937",
+    pages = "15154--15167",
+}
+
+```
