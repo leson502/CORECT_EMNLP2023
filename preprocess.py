@@ -1,5 +1,4 @@
 import argparse
-from numpy.lib.twodim_base import diag
 
 from tqdm import tqdm
 import pickle
